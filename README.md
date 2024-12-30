@@ -1,6 +1,3 @@
-# knowledge-base
-A central repository of team-wide documentation, processes, and standards. Use this space to share and maintain all organizational knowledge so everyone can stay aligned and informed.
-
 # Welcome to the knowledge base of Duraclim's IT department !
 
 This is our central hub of knowledge—your one-stop resource for documentation, guidelines, references, and best practices.
